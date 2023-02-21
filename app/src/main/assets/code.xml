@@ -1,0 +1,33 @@
+<codes>
+	<code>
+		public class className {
+		
+		}
+	</code>	
+	<code>
+		public void method() {
+		
+		}
+
+	</code>	
+	<code>
+		public static void main(String arg[]) {
+		
+		}
+	</code>	
+	<code>
+		public enum e {
+
+		}
+	</code>	
+	<code>
+		if (condition) {
+			statment;
+		}
+	</code>	
+	<code>
+		for (int i = 0; i = m; i++) {
+		
+		}
+	</code>	
+</codes>
